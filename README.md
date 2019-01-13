@@ -1,7 +1,6 @@
-# CreateProcess
-Simple C++ Program to show how CreateProcess() is used to create and execute a process with and without arguments.
-Use of WaitForSingleObject() to used to check if the process has terminated.
-Demostrate the use of handle to kernel objects EProcess
+# CreateProcess() and WaitForSingleObject ()
+A simple C++ Program to show how to use CreateProcess() is used to create and execute a process with and without arguments.
+Then used WaitForSingleObject() to check if the process has terminated.
 
 # Kernel Debugging
 Using Kernel Debugger we could track the "life" of the EProcess struct of the child process.
