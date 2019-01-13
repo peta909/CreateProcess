@@ -9,6 +9,5 @@
 #ifndef PCH_H
 #define PCH_H
 
-// TODO: add headers that you want to pre-compile here
-
+//#include <Windows.h> //speed up compilation windows.h is for windows apis
 #endif //PCH_H
