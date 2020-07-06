@@ -8,4 +8,4 @@ The EProcess struct of a process is only removed when all handles to the process
 
 # FYI
 The code was written and compiled using VS2017 Professional.
-Drop me a qns/comment at peta909@hotmail.com :)
+
